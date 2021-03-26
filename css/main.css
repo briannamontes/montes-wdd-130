@@ -346,5 +346,18 @@ body.dark-mode footer #dark-mode #tgl-wrapper .tgl + .tgl-btn:after {
       grid-template-rows: 1fr;
   }
 
+  .abouth1 {
+    text-align: center;
+    line-height: 20px;
+  }
 
- 
+  .aboutp1 {
+    text-align: center;
+    line-height: 30px;
+  }
+
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+  }
