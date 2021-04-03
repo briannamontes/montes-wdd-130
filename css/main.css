@@ -375,7 +375,7 @@ body.dark-mode footer #dark-mode #tgl-wrapper .tgl + .tgl-btn:after {
 
 
   .about-container {
-    position:right;
+    position:left;
 }
 
   
